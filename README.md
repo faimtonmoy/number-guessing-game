@@ -48,7 +48,7 @@ https://roadmap.sh/projects/number-guessing-game
 ### 2. Run the script
 
 ```bash
-python guess_game.py
+python number-guessing.py
 ```
 
 ---

@@ -40,8 +40,9 @@ A simple and interactive command-line number guessing game built with Python. Th
 ### 1. Clone or download the file
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/faimtonmoy/number-guessing-game
 cd number-guessing-game
+https://roadmap.sh/projects/number-guessing-game
 ```
 
 ### 2. Run the script
